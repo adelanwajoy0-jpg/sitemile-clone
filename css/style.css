@@ -608,6 +608,11 @@ nav a{
     color: darkgreen;
     line-height: 1.6;
 }
+footer{
+    width: 100%;
+    height: 40vh;
+    background-color: black;
+}
 @media (max-width: 600px) {
 
     header {
